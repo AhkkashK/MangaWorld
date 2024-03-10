@@ -1,0 +1,25 @@
+
+.container{
+    margin:10px;
+    display: grid;
+    gap:12px; 
+    grid-auto-flow: column;
+    grid-auto-columns: 200px;
+    overflow-x: auto;
+    border: 2px solid black;
+    border-radius: 2%;
+    margin-bottom: 70px;
+   
+}
+
+.accueil{
+    background-color: rgba(0, 0, 0,0.8);
+}
+
+h1{
+    color: blanchedalmond;
+    padding-bottom: 10px;
+    padding-left: 10px;
+}
+
+

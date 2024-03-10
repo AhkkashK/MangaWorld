@@ -1,0 +1,63 @@
+.card-container{
+    background-repeat: no-repeat; 
+    position: relative;
+    width: fit-content;
+    height: fit-content;
+    margin: 0;
+    overflow: hidden;
+    
+}
+
+.card-image{
+    width: 200px;
+    height: 300px;
+    transition: all .8s ease-in-out ;
+    
+   
+}
+.card-overlay{
+    position: absolute;
+    color: whitesmoke;
+    top: 0;
+    left:0;
+    height: 100%;
+    width: 100%;
+    overflow: hidden;
+    box-shadow: inset 0 -24px 24px -12px #000000, inset 0 24px 24px -12px #000000;
+}
+
+
+
+.card-overlay > h3{
+    position: absolute;
+    margin: 2px;
+    bottom: 0;
+    left: 0;
+    font-weight: 400;
+    text-shadow:  black;
+    font-size: small;
+    color: whitesmoke;
+}
+
+.card-score > img {
+    width: 20px;
+}
+.card-score{
+    position: absolute;
+    display: flex;
+    flex-direction: row;
+    top:2%;
+    right: 2%;
+    
+    
+}
+
+.card-container:hover .card-image{
+    scale:  1.5;
+    
+    
+}
+
+.card-container:hover{
+    overflow: hidden;
+}

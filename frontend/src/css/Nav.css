@@ -1,0 +1,45 @@
+body{
+    margin: 0;
+    padding: 0;
+    
+}
+
+.logoPage {
+    width: 80px;
+    margin: 10px;
+    
+    
+}
+
+.navbar{
+    display: flex;
+    background-color: rgba(0, 0, 0, 0.856);
+    align-items: center;
+    justify-content: space-between;
+    
+}
+.navbar > ul{
+    display: flex;
+    flex-direction: row;
+    padding-right:10px;
+    gap : 0px 30px;
+    margin-right: 100px;
+    
+} 
+
+.navbar >ul>.link-li>li {
+    list-style: none;
+    font-size: large;
+    color: blanchedalmond;
+    font-weight: bold;
+    text-decoration: none;
+}
+.link-li{
+    text-decoration: none;
+}
+
+.navbar >ul>.link-li>li:hover{
+    color:rgba(255, 0, 0, 0.742);
+    
+}
+
