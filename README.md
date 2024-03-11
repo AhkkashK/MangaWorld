@@ -15,9 +15,9 @@ Then you have to follow these steps to run the project :
 
 1. Go to the project
 2. In your terminal, go to the backend folder
-3. run this command - `npm run devStart`
-4. Open a another terminal
-5. Go the frontend folder
-6. run this command - `npm start`
+3. Run this command - `npm run devStart`
+4. Open an another terminal
+5. Go to the frontend folder
+6. Run this command - `npm start`
    
 
