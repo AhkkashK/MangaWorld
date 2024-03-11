@@ -21,5 +21,3 @@ Then you have to follow these steps to run the project :
 6. run this command - `npm start`
    
 
-## What you can see 
-
