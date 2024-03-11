@@ -2,8 +2,8 @@
 
 ## Introduction 
 
-Hello world ! To upgrade my coding skills in general, i wanted to do a project in relatation with a topic that i like and it's mangas.
-I scraped a website then i managed to transform and load the data into a local MySQL database. The backend is in ExpressJS and the frontend in ReactJS. The purpose of my website was to be a manga library where you can search informations about the top 1000 mangas.
+Hello world ! To upgrade my coding skills in general, i wanted to do a project in relation with a topic that i like and it's mangas.
+I scraped a website then i managed to transform and load the data into a local MySQL database. The backend is in ExpressJS and the frontend in ReactJS. The purpose of my website is to propose a manga library where you can search informations about the top 1000 mangas.
 
 ## How to run the project
 
