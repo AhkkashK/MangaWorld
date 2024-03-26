@@ -1,5 +1,3 @@
-
-#aide de chat pour les requetes async
 import requests
 #from requests.adapters import HTTPAdapter
 
