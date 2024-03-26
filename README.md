@@ -20,4 +20,6 @@ Then you have to follow these steps to run the project :
 5. Go to the frontend folder
 6. Run this command - `npm start`
    
+## Preview of the website
 
+https://github.com/AhkkashK/MangaWorld/assets/94615150/119bc358-5ea5-41ff-9346-70cec89ef52e
