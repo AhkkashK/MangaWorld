@@ -25,7 +25,7 @@ Then you have to follow these steps to run the project :
 https://github.com/AhkkashK/MangaWorld/assets/94615150/24398f78-0eb9-45d4-a267-ec965558f06d
 
 
-## What i have learned from this (new skills, difficult parts of my project...) ? 
+## What I have learned from this (new skills, difficult parts of my project...) ? 
 
 As I mentioned before, this project was aimed at familiarizing myself with the ETL process. Through this project, I learned the construction of APIs and connecting to a MySQL database using ExpressJS. ReactJS was new to me (note that I didn't spend much time on the frontend). Also, one of my biggest struggles was being able to scrape the website without getting blocked. To counter that, I created a pool of free proxies. I have to mention that free proxies die very quickly, making it more challenging. Despite all that, I took great pleasure in building this project in my free time.
 
@@ -37,5 +37,5 @@ As I mentioned before, this project was aimed at familiarizing myself with the E
 - Develop a more aesthetically pleasing website with additional features such as the ability to read manga. Unfortunately, I can't implement this because there are no available links.
 
 
-Don't hesitate to give me some advice, i will be extremely grateful ! 
+Don't hesitate to give me some advices, I will be extremely grateful ! 
 
