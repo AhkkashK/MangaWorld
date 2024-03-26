@@ -22,4 +22,4 @@ Then you have to follow these steps to run the project :
    
 ## Preview of the website
 
-https://github.com/AhkkashK/MangaWorld/assets/94615150/119bc358-5ea5-41ff-9346-70cec89ef52e
+https://github.com/AhkkashK/MangaWorld/assets/94615150/24398f78-0eb9-45d4-a267-ec965558f06d
