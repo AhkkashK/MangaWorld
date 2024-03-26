@@ -37,5 +37,4 @@ As I mentioned before, this project was aimed at familiarizing myself with the E
 - Develop a more aesthetically pleasing website with additional features such as the ability to read manga. Unfortunately, I can't implement this because there are no available links.
 
 
-Don't hesitate to give me some advices, I will be extremely grateful ! 
-
+Don't hesitate to give me some advices, I will be extremely grateful !
